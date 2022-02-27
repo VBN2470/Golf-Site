@@ -1,0 +1,35 @@
+
+.showcase-about {
+    background: #333 url(../../pictures/Course_10.jpg)
+    no-repeat center center/cover;
+    position: relative;
+    height: 50vh;
+    color: white;
+}
+
+.showcase-content {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    padding: 0 2rem;
+    position: relative;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: rgba(0, 0, 0, 0.2);
+}
+
+#info-about {
+    text-align: left;
+    padding: 1rem;
+    margin: 1rem;
+    border: 1px solid black;
+    border-radius: 10px;
+    font-family: 'Segoe UI', sans-serif;
+    font-size: 18px;
+    background-color: rgb(236, 245, 248);
+}

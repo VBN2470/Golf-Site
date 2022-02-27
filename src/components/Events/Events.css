@@ -1,0 +1,74 @@
+
+#showcase-events {
+    background: #333 url(../../pictures/Course_7.jpg)
+    no-repeat center center/cover;
+    position: relative;
+    height: 100vh;
+    color: white;
+}
+
+.showcase-content {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    padding: 0 2rem;
+    position: relative;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: rgba(0, 0, 0, 0.4);
+}
+
+.events {
+    padding: 2rem;
+    height: auto;
+    background-color: rgb(236, 252, 255);
+}
+
+.row {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    width: 100%;
+    border: 2px solid black;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    border-radius: 4px;
+    background-color: rgb(236, 236, 236);
+}
+
+.col {
+    display: flex;
+    justify-content: left;
+    flex-direction: column;
+    flex-basis: auto;
+    flex: 1;
+
+}
+
+table {
+    border-radius: 2px;
+    width: 80%;
+}
+
+table td, table th {
+    border: 1px solid black;
+    border-collapse: separate;
+    padding: 0.6rem;
+    width: 60%;
+  }
+
+.title {
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+}
+
+.update {
+    color: green;
+}
