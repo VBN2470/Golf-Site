@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/Golf/static/css/main.d1c5aeb7.css",
-    "main.js": "/Golf/static/js/main.05f9c6c7.js",
-    "static/media/IMG_Events.jpg": "/Golf/static/media/IMG_Events.57281bb22a83fe52b127.jpg",
-    "static/media/IMG_About.jpg": "/Golf/static/media/IMG_About.9c1ea518d07d9864759a.jpg",
-    "static/media/IMG_7050.jpg": "/Golf/static/media/IMG_7050.e441dfb637b42c6dbae8.jpg",
-    "static/media/js.jpg": "/Golf/static/media/js.a3721876119b67bbae78.jpg",
-    "static/media/tee.PNG": "/Golf/static/media/tee.7adf035ef5c3a55cb0bb.PNG",
-    "static/media/logo.png": "/Golf/static/media/logo.b56aec6bceae51aada55.png",
-    "static/media/gallery2.jpg": "/Golf/static/media/gallery2.1b099dd7d596e597690a.jpg",
-    "index.html": "/Golf/index.html",
-    "main.d1c5aeb7.css.map": "/Golf/static/css/main.d1c5aeb7.css.map",
-    "main.05f9c6c7.js.map": "/Golf/static/js/main.05f9c6c7.js.map"
+    "main.css": "/Golf-Site/static/css/main.650b7ac1.css",
+    "main.js": "/Golf-Site/static/js/main.16d9df0a.js",
+    "static/media/IMG_Events.jpg": "/Golf-Site/static/media/IMG_Events.57281bb22a83fe52b127.jpg",
+    "static/media/IMG_About.jpg": "/Golf-Site/static/media/IMG_About.9c1ea518d07d9864759a.jpg",
+    "static/media/IMG_7050.jpg": "/Golf-Site/static/media/IMG_7050.e441dfb637b42c6dbae8.jpg",
+    "static/media/js.jpg": "/Golf-Site/static/media/js.a3721876119b67bbae78.jpg",
+    "static/media/tee.PNG": "/Golf-Site/static/media/tee.7adf035ef5c3a55cb0bb.PNG",
+    "static/media/logo.png": "/Golf-Site/static/media/logo.b56aec6bceae51aada55.png",
+    "static/media/gallery2.jpg": "/Golf-Site/static/media/gallery2.1b099dd7d596e597690a.jpg",
+    "index.html": "/Golf-Site/index.html",
+    "main.650b7ac1.css.map": "/Golf-Site/static/css/main.650b7ac1.css.map",
+    "main.16d9df0a.js.map": "/Golf-Site/static/js/main.16d9df0a.js.map"
   },
   "entrypoints": [
-    "static/css/main.d1c5aeb7.css",
-    "static/js/main.05f9c6c7.js"
+    "static/css/main.650b7ac1.css",
+    "static/js/main.16d9df0a.js"
   ]
 }
