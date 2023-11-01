@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Golf-Site/static/css/main.650b7ac1.css",
-    "main.js": "/Golf-Site/static/js/main.16d9df0a.js",
+    "main.js": "/Golf-Site/static/js/main.ada64f2e.js",
     "static/media/IMG_Events.jpg": "/Golf-Site/static/media/IMG_Events.57281bb22a83fe52b127.jpg",
     "static/media/IMG_About.jpg": "/Golf-Site/static/media/IMG_About.9c1ea518d07d9864759a.jpg",
     "static/media/IMG_7050.jpg": "/Golf-Site/static/media/IMG_7050.e441dfb637b42c6dbae8.jpg",
@@ -11,10 +11,10 @@
     "static/media/gallery2.jpg": "/Golf-Site/static/media/gallery2.1b099dd7d596e597690a.jpg",
     "index.html": "/Golf-Site/index.html",
     "main.650b7ac1.css.map": "/Golf-Site/static/css/main.650b7ac1.css.map",
-    "main.16d9df0a.js.map": "/Golf-Site/static/js/main.16d9df0a.js.map"
+    "main.ada64f2e.js.map": "/Golf-Site/static/js/main.ada64f2e.js.map"
   },
   "entrypoints": [
     "static/css/main.650b7ac1.css",
-    "static/js/main.16d9df0a.js"
+    "static/js/main.ada64f2e.js"
   ]
 }
