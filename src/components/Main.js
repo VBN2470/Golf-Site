@@ -13,7 +13,7 @@ import './Main.css';
 
 const Main = () => {
     return (
-        <BrowserRouter basename='/Golf'>
+        <BrowserRouter basename='/Golf-Site'>
             <NavBar></NavBar>
             <div>
                 <Routes>
