@@ -2,7 +2,7 @@
   "name": "golf",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://vbn2470.github.io/Golf",
+  "homepage": "https://vbn2470.github.io/Golf-Site/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.1",
     "@testing-library/react": "^12.1.2",
